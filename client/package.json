@@ -9,6 +9,7 @@
     "axios": "^0.25.0",
     "buffer": "^6.0.3",
     "child_process": "^1.0.2",
+    "crypto-js": "^4.1.1",
     "emoji-picker-react": "^3.6.5",
     "fs": "^0.0.1-security",
     "openssl-nodejs": "^1.0.5",
